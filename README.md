@@ -6,4 +6,4 @@ Fear of missing out, curiosity, self-esteem, speed: it's like social media has c
 
 In this Project, we will use pre-downloaded datasets to understand the nuts and bolts of Twitter Data. In particular, we will do a thorough analysis of a hot-trend.
 
-Warning: some of the tweets in the Twitter datasets contain explicit language.
+Note: some of the tweets in the Twitter datasets contain explicit language.
